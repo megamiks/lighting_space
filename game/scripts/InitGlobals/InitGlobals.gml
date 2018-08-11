@@ -19,7 +19,7 @@ global.green[0] = sBlue_Standing;
 global.green[1] = sBlue_Up;
 global.green[2] = sBlue_Down; 
 global.green[3] = Baddie_Walk_Left; 
-global.green[4] = Daddie_Wald_Right;
+global.green[4] = Baddie_Walk_Right;
 
 global.yellow = 0;
 global.yellow[0] = sBlue_Standing;
