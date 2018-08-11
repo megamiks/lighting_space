@@ -335,14 +335,6 @@
             }
         },
         {
-            "Key": "6734ada5-1092-47e5-b5fb-50273409d0cb",
-            "Value": {
-                "id": "9685849e-684f-4dc6-94f3-8f3b5624b76c",
-                "resourcePath": "sprites\\LargeBaddie_right\\LargeBaddie_right.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "69aab70d-0b0d-45b6-8a79-67ef5b9a618d",
             "Value": {
                 "id": "0b345cb3-7d7d-4717-ab09-ff10cc7182fa",
@@ -356,14 +348,6 @@
                 "id": "26762fd4-97d1-4f26-97e8-9434299bcaa2",
                 "resourcePath": "scripts\\ProcessCollision\\ProcessCollision.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "837b934a-40a2-4078-bb4e-33d556bf4f37",
-            "Value": {
-                "id": "0e78bac3-f9bd-48e3-9d93-4870204aa3e4",
-                "resourcePath": "paths\\LargeBaddiePath\\LargeBaddiePath.yy",
-                "resourceType": "GMPath"
             }
         },
         {
@@ -420,14 +404,6 @@
                 "id": "dc38b003-e10a-4522-b96c-106b7912539f",
                 "resourcePath": "tilesets\\tCollisions\\tCollisions.yy",
                 "resourceType": "GMTileSet"
-            }
-        },
-        {
-            "Key": "9894b714-a1c4-4dd7-a01d-53b3353d4c82",
-            "Value": {
-                "id": "20fcf035-8d45-480b-b4af-f25ad0aaf3c4",
-                "resourcePath": "sprites\\LargeBaddie_left\\LargeBaddie_left.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

@@ -2,6 +2,7 @@
 
 InitGlobals();
 
+player_id = 1;
 dir = DIR_STOP;
 sprites = global.Sprites[0];
 player_speed = 10;

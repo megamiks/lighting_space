@@ -2,12 +2,12 @@
 
 InitGlobals();
 
+player_id = 2;
 dir = DIR_STOP;
-sprites = global.Sprites[0];
-player_speed = 8;
+sprites = global.Sprites[1];
+player_speed = 6;
 dx = 0;
 dy = 0;
-
 WallMap = global.WallMap;
 DebugLayer = global.DebugLayer; 
 DebugMap = global.DebugMap; 
